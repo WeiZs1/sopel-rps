@@ -1,9 +1,7 @@
 '''
 rock-paper-scissors module for sopel irc bot
 (Probably) Copyright WZ1 2016
-
 '''
-from __future__ import division
 from sopel import module,tools
 from random import choice
 import time
